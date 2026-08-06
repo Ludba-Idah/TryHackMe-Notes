@@ -3,7 +3,7 @@
 Welcome to my TryHackMe documentation repository! This repository has my practical lab notes as I learn about cybersecurity in TryHackMe!
 
 
-## Completed FREE AREAS OF Paths 
+## Completed Paths As a Free User
 - [✔️] Pre Security
 - [❌] Cyber Security 101
 
