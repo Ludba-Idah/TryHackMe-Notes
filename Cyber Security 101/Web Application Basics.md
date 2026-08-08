@@ -29,7 +29,7 @@ HTTP Methods & Status Codes
 *   `404 Not Found` -> Response code indicating the requested resource doesn't exist.
 *   `500 Internal Error` -> Response code indicating a crash on the server side.
 
-## Security Headers
+Security Headers
 
 *   `CSP` -> Restricts where scripts can load from to prevent XSS attacks.
 *   `HSTS` -> Forces the browser to strictly use encrypted HTTPS connections.
