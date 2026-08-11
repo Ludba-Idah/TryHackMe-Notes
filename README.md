@@ -1,19 +1,17 @@
 # TryHackMe Notes
 
-Welcome to my TryHackMe documentation repository! This repository has my practical lab notes as I learn about cybersecurity in TryHackMe!
+Welcome to my cybersecurity lab notebook! This repository contains my practical notes as I progress through TryHackMe's pathways. 
 
+## Current Progress
+*   [✔️] Pre Security Path
+*   [❌] Cyber Security 101 Path (In Progress)
 
-## Completed Paths As a Free User
-- [✔️] Pre Security
-- [❌] Cyber Security 101
-
-
-## Tools & Concepts Practiced
-
--Operating Systems: Linux (WSL), Windows CLI
-
+## Tools & Environments
+*   Operating Systems: Linux (WSL), Windows CLI
+*   Core Focus: Fundamentals
 
 ## Repository Structure
-
-* I will only include rooms which are **free**.
-* Each room write-up explains **what** the room was about, **tools used**, and **key takeaways**.
+This repository focuses on foundational, universally accessible lab environments. Every file represents a specific room and includes a detailed write-up covering:
+1.  The Objective: What the room was designed to teach.
+2.  Tools Deployed: Specific commands, utilities, or scripts used.
+3.  Key Takeaways: A non-technical summary of the vulnerabilities explored or concepts mastered.
