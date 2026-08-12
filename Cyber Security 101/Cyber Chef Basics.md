@@ -6,3 +6,5 @@ This room tells us how to use CyberChef, which is a great tool for encryption, e
 
 ## Key Takeaways
 
+4 Areas
+* **Operations**
