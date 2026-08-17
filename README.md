@@ -4,7 +4,8 @@ Welcome to my cybersecurity lab notebook! This repository contains my practical 
 
 ## Current Progress
 *   [✔️] Pre Security Path
-*   [✔️] Cyber Security 101 Path 
+*   [✔️] Cyber Security 101 Path
+*   [✖️] SOC Level 1 (In Progress)
 
 ## Tools & Environments
 *   Operating Systems: Linux (WSL), Windows CLI
