@@ -4,7 +4,7 @@ Welcome to my cybersecurity lab notebook! This repository contains my practical 
 
 ## Current Progress
 *   [✔️] Pre Security Path
-*   [❌] Cyber Security 101 Path (In Progress)
+*   [✔️] Cyber Security 101 Path 
 
 ## Tools & Environments
 *   Operating Systems: Linux (WSL), Windows CLI
